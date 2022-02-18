@@ -2,3 +2,7 @@ testEjercicio1/TestNextDay.java
  testEjercicio1.TestNextDay
 testEjercicio2/TestNumbers.java
  testEjercicio2.TestNumbers
+testEjercicio3/TestCambioMoneda.java
+ testEjercicio3.TestCambioMoneda
+testEjercicio3/TestMockStaticCambioMoneda.java
+ testEjercicio3.TestMockStaticCambioMoneda

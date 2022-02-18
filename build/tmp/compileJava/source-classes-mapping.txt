@@ -4,3 +4,11 @@ ejercicio2/PrimoUtils.java
  ejercicio2.PrimoUtils
 ejercicio2/NumbersGenerator.java
  ejercicio2.NumbersGenerator
+ejercicio3/UtilsStatic.java
+ ejercicio3.UtilsStatic
+ejercicio3/ConvertirMoneda.java
+ ejercicio3.ConvertirMoneda
+ejercicio3/Utils.java
+ ejercicio3.Utils
+ejercicio3/ConvertirMonedaStatic.java
+ ejercicio3.ConvertirMonedaStatic
