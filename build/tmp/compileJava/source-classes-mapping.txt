@@ -1,2 +1,6 @@
 ejercicio1/NextDay.java
  ejercicio1.NextDay
+ejercicio2/PrimoUtils.java
+ ejercicio2.PrimoUtils
+ejercicio2/NumbersGenerator.java
+ ejercicio2.NumbersGenerator

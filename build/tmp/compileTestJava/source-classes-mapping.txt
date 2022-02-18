@@ -1,2 +1,4 @@
 testEjercicio1/TestNextDay.java
  testEjercicio1.TestNextDay
+testEjercicio2/TestNumbers.java
+ testEjercicio2.TestNumbers
